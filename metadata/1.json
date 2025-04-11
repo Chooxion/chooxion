@@ -1,0 +1,33 @@
+{
+    "name": "My Token Name",
+    "symbol": "MTK",
+    "description": "This is a test token used for demos.",
+    "image": "https://example.com/image.png",
+    "external_url": "https://yourproject.com",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Utility"
+      },
+      {
+        "trait_type": "Launch Year",
+        "value": "2025"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://example.com/image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "YOUR_WALLET_ADDRESS",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
